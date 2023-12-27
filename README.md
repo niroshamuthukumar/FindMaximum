@@ -56,8 +56,11 @@ def max_marks(list1):
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-02 112929.png>)
-![Alt text](<Screenshot 2023-12-02 113220.png>)
+
+![Annotation 2023-12-27 224044](https://github.com/niroshamuthukumar/FindMaximum/assets/151830921/4c60cf9d-a154-4563-8711-cc32d31c12dc)
+
+![Annotation 2023-12-27 224113](https://github.com/niroshamuthukumar/FindMaximum/assets/151830921/d8462df9-d089-4155-a4f0-d898283c4eec)
+
 ![Alt text](<Screenshot 2023-12-02 113247.png>)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
